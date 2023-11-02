@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:tjallingt/react-youtube.git",
+    "url": "git@github.com:k-kruusi/react-youtube.git",
     "directory": "packages/react-youtube"
   },
   "keywords": [
