@@ -1,5 +1,5 @@
 {
-  "name": "react-youtube",
+  "name": "@discordapp/react-youtube",
   "version": "1.0.0",
   "description": "React.js powered YouTube player component",
   "main": "dist/YouTube.js",
